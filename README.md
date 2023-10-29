@@ -1,2 +1,4 @@
 # Create-a-Quick-Breast-Cancer-Classifier-with-Python
-Machine Learning Project
+Machine Learning
+Deep Learning
+Artificial Intelligence
